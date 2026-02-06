@@ -125,8 +125,8 @@ Ask yourself:
 ### 📚 Recommended Tutorials & Learning Resources
 
 #### 📘 Official
-- 🔗 Databricks Tutorials & Demos: [Explore here](https://www.databricks.com/resources/demos/tutorials) :contentReference[oaicite:12]{index=12}  
-- 🔗 Databricks Training & Learning Hub: https://www.databricks.com/learn :contentReference[oaicite:13]{index=13}  
+- 🔗 Databricks Tutorials & Demos: [Explore here](https://www.databricks.com/resources/demos/tutorials) :contentReference[oaicite:12]{index=12}
+- 🔗 Databricks Training & Learning Hub:https://www.databricks.com/sites/default/files/2025-10/databricks-certified-associate-developer-apache-spark-exam-guide-oct-2025.pdf 
 - 🔗 Get Started with Databricks: https://docs.databricks.com/aws/en/getting-started/ :contentReference[oaicite:14]{index=14}  
 - 🔗 PySpark on Databricks Docs: https://docs.databricks.com/aws/en/pyspark :contentReference[oaicite:15]{index=15}  
 - 🔗 Apache Spark on Databricks Tutorial: https://www.databricks.com/spark/getting-started-with-apache-spark :contentReference[oaicite:16]{index=16}
